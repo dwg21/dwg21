@@ -1,7 +1,6 @@
 # 💫 About Me:
-🔭 Currently searching for full stack developer job opportunities. <br>🌱 I’m currently learning mysql<br>💬 Ask me about what projects i'm working on now. <br>
-
-
+🔭 Hi. I'm an Engineering graduate and self-taught full stack engineer seeking full stack development opportunities.
+  After graduating with a first class honors in Aerospace Engineering from The University of Sheffield, I realized I was passionate about coding and wanted to pursue a career within programming. As such, I taught my self full stack development and am always continually learning new concepts to widen my skill-set.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-green-0925a2151/) 
 
