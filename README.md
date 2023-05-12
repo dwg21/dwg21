@@ -4,9 +4,18 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-green-0925a2151/) 
 
-🌐 Portlio website : https://danielwgreen.netlify.app/
+👨 Portlio website : https://danielwgreen.netlify.app/
 
-# 💻 Top Projects:
+# ⭐ Top Projects:
+
+Vinswap - A Full stack Used clothes marketplace with a twist. 
+Live: https://vinswap.lat/ 
+Github : https://github.com/dwg21/Vinpop
+
+Español Maestro - A Interactive Language Learning Tool.
+Live: https://espanolmaestroserver.onrender.com
+Github : https://github.com/dwg21/EspanolMaestroSever
+
 
 
 # 💻 Tech Stack:
