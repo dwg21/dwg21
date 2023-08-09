@@ -8,6 +8,8 @@
 
 # ⭐ Top Projects:
 
+* Please allow 1-2 minutes after entering websites for the back-end server to start running due to free hosting limitations.
+
 Vinswap - A Full stack Used clothes marketplace with a twist. 
 Live: https://vinswap.lat/ 
 Github : https://github.com/dwg21/Vinpop
