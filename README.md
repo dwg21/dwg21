@@ -10,16 +10,16 @@
 
 * Please allow 1-2 minutes after entering websites for the back-end server to start running due to free hosting limitations. *
 
-# Vinswap - A Full stack Used clothes marketplace with a twist. 
+Vinswap - A Full stack Used clothes marketplace with a twist. 
 Live: https://vinswap.lat/ 
 Github : https://github.com/dwg21/Vinpop
 
-# Español Maestro - A Interactive Language Learning Tool.
+Español Maestro - A Interactive Language Learning Tool.
 Live: https://espanolmaestroserver.onrender.com
 Github : https://github.com/dwg21/EspanolMaestroSever
 
 *IN PROGRESS**
-# DEVSEEKER - A Developer Job boards that scrapes developer jobs from around the internet and allows you to manage applications.
+DEVSEEKER - A Developer Job boards that scrapes developer jobs from around the internet and allows you to manage applications.
 https://github.com/dwg21/Devseeker
 
 
