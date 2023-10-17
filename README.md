@@ -11,7 +11,7 @@
 * Please allow 1-2 minutes after entering websites for the back-end server to start running due to free hosting limitations. *
 
 * Español Maestro - A Interactive Language Learning Tool.
-Live: espanolmaestro.com
+Live: https://espanolmaestro.com
 Github : Frontend - https://github.com/dwg21/EspanolMaestro_Frontend
          Backend - https://github.com/dwg21/EspanolMaestro_Sever
 
