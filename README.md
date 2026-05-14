@@ -1,42 +1,84 @@
-# 💫 About Me:
-🔭 Hi. I'm an Engineering graduate and self-taught full stack engineer seeking full stack development opportunities.
-  After graduating with a first class honors in Aerospace Engineering from The University of Sheffield, I realized I was passionate about coding and wanted to pursue a career within programming. As such, I taught my self full stack development and am always continually learning new concepts to widen my skill-set.
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-green-0925a2151/) 
+# Hi, I'm Daniel Green 👋
 
-👨 Portlio website : https://danielwgreen.netlify.app/
+Full-stack software engineer building scalable web applications across frontend, backend, and API systems.
 
-# ⭐ Top Projects:
+Currently working at Tesco Technology, contributing to high-traffic customer-facing platforms used by millions of users. I work across React + TypeScript frontends, Java/Spring Boot backend services, GraphQL APIs, and PostgreSQL databases within modern product engineering environments.
 
-* Please allow 1-2 minutes after entering websites for the back-end server to start running due to free hosting limitations. *
+My background in Aerospace Engineering helped develop strong analytical thinking and problem-solving skills, which I now apply to building reliable, scalable, and user-focused software systems.
 
-* Español Maestro - A Interactive Language Learning Tool.
-Live: https://espanolmaestro.com
-Github : Frontend - https://github.com/dwg21/EspanolMaestro_Frontend
-         Backend - https://github.com/dwg21/EspanolMaestro_Sever
-
-Vinswap - A Full stack Used clothes marketplace with a twist. 
-Live: https://vinswap.lat/ 
-Github : https://github.com/dwg21/Vinpop
-
-*IN PROGRESS**
-DEVSEEKER - A Developer Job boards that scrapes developer jobs from around the internet and allows you to manage applications.
-https://github.com/dwg21/Devseeker
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dwg21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dwg21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dwg21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I enjoy working across the stack, collaborating within cross-functional teams, and exploring how modern technologies — including AI-assisted workflows — can create better developer and user experiences.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dwg21&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌐 Links
 
+- LinkedIn: https://www.linkedin.com/in/daniel-green-0925a2151/
+- Portfolio: https://danielwgreen.netlify.app/
+- GitHub: https://github.com/dwg21
+
+---
+
+# ⭐ Featured Project
+
+## MyceliApp
+
+A passion project exploring how AI can be used visually to support creativity, ideation, and non-linear thinking.
+
+MyceliApp is an AI-powered visual canvas that allows users to explore ideas dynamically through interconnected nodes and branching conversations. Rather than interacting with AI through traditional chat interfaces, the platform experiments with more visual and spatial workflows for thinking, brainstorming, and knowledge exploration.
+
+### Features
+- Infinite visual canvas for idea exploration
+- AI-assisted branching and concept generation
+- Dynamic node relationships and conversational flows
+- Real-time interaction with multiple LLM providers
+- OAuth2 authentication and user management
+- Responsive and highly interactive frontend experience
+
+### Integrations
+- OpenAI
+- Anthropic
+- Google AI APIs
+
+### Stack
+React, TypeScript, Node.js, Express, PostgreSQL, OAuth2
+
+### What I Explored
+- Designing visual interfaces for AI-assisted thinking
+- Managing scalable node and conversation state
+- Building responsive real-time interactions
+- Creating intuitive UX patterns for non-linear workflows
+- Integrating and orchestrating multiple LLM providers
+
+🌐 Live: https://www.myceliapp.com
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+Java, TypeScript, JavaScript, Python, SQL
+
+## Frontend
+React, Redux, Tailwind CSS
+
+## Backend
+Java, Spring Boot, Node.js, Express.js
+
+## Databases
+PostgreSQL, MongoDB
+
+## Tools & Platforms
+Git, GitHub, GraphQL, CI/CD, Azure DevOps, Jira, Figma
+
+## Practices
+Agile/Scrum, API Design, Scalable Web Applications, AI-Assisted Development
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=dwg21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=dwg21&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dwg21&theme=dark&hide_border=false&layout=compact)
