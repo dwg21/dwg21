@@ -14,6 +14,8 @@ I enjoy working across the stack, collaborating within cross-functional teams, a
 
 - LinkedIn: https://www.linkedin.com/in/daniel-green-0925a2151/
 - Portfolio: https://danielwgreen.netlify.app/
+
+
 - GitHub: https://github.com/dwg21
 
 ---
@@ -50,6 +52,8 @@ React, TypeScript, Node.js, Express, PostgreSQL, OAuth2
 - Integrating and orchestrating multiple LLM providers
 
 🌐 Live: https://www.myceliapp.com
+
+<img width="2560" height="1310" alt="Screenshot 2026-04-11 at 17 38 45" src="https://github.com/user-attachments/assets/106b164a-4a37-4272-9de3-8a702ce1d724" />
 
 ---
 
