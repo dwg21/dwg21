@@ -14,8 +14,6 @@ I enjoy working across the stack, collaborating within cross-functional teams, a
 
 - LinkedIn: https://www.linkedin.com/in/daniel-green-0925a2151/
 - Portfolio: https://danielwgreen.netlify.app/ (outdated)
-- GitHub: https://github.com/dwg21
-
 ---
 
 # ⭐ Featured Project
